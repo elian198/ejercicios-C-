@@ -1,0 +1,14 @@
+C:\Users\epareja\C#\ejercicios-CDA\ejercicios-clase-2\ejercicios-clase-2\obj\Debug\net8.0\ejercicios-clase-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\epareja\C#\ejercicios-CDA\ejercicios-clase-2\ejercicios-clase-2\obj\Debug\net8.0\ejercicios-clase-2.AssemblyInfoInputs.cache
+C:\Users\epareja\C#\ejercicios-CDA\ejercicios-clase-2\ejercicios-clase-2\obj\Debug\net8.0\ejercicios-clase-2.AssemblyInfo.cs
+C:\Users\epareja\C#\ejercicios-CDA\ejercicios-clase-2\ejercicios-clase-2\obj\Debug\net8.0\ejercicios-clase-2.csproj.CoreCompileInputs.cache
+C:\Users\epareja\C#\ejercicios-CDA\ejercicios-clase-2\ejercicios-clase-2\bin\Debug\net8.0\ejercicios-clase-2.exe
+C:\Users\epareja\C#\ejercicios-CDA\ejercicios-clase-2\ejercicios-clase-2\bin\Debug\net8.0\ejercicios-clase-2.deps.json
+C:\Users\epareja\C#\ejercicios-CDA\ejercicios-clase-2\ejercicios-clase-2\bin\Debug\net8.0\ejercicios-clase-2.runtimeconfig.json
+C:\Users\epareja\C#\ejercicios-CDA\ejercicios-clase-2\ejercicios-clase-2\bin\Debug\net8.0\ejercicios-clase-2.dll
+C:\Users\epareja\C#\ejercicios-CDA\ejercicios-clase-2\ejercicios-clase-2\bin\Debug\net8.0\ejercicios-clase-2.pdb
+C:\Users\epareja\C#\ejercicios-CDA\ejercicios-clase-2\ejercicios-clase-2\obj\Debug\net8.0\ejercicios-clase-2.dll
+C:\Users\epareja\C#\ejercicios-CDA\ejercicios-clase-2\ejercicios-clase-2\obj\Debug\net8.0\refint\ejercicios-clase-2.dll
+C:\Users\epareja\C#\ejercicios-CDA\ejercicios-clase-2\ejercicios-clase-2\obj\Debug\net8.0\ejercicios-clase-2.pdb
+C:\Users\epareja\C#\ejercicios-CDA\ejercicios-clase-2\ejercicios-clase-2\obj\Debug\net8.0\ejercicios-clase-2.genruntimeconfig.cache
+C:\Users\epareja\C#\ejercicios-CDA\ejercicios-clase-2\ejercicios-clase-2\obj\Debug\net8.0\ref\ejercicios-clase-2.dll

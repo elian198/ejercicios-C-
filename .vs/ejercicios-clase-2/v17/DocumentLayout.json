@@ -1,0 +1,504 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{296A10BC-860E-47A6-9C20-5D4DA86A6101}|Ejercicio7\\Ejercicio7.csproj|c:\\users\\epareja\\c#\\ejercicios-cda\\ejercicios-clase-2\\ejercicio7\\coche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{296A10BC-860E-47A6-9C20-5D4DA86A6101}|Ejercicio7\\Ejercicio7.csproj|solutionrelative:ejercicio7\\coche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296A10BC-860E-47A6-9C20-5D4DA86A6101}|Ejercicio7\\Ejercicio7.csproj|c:\\users\\epareja\\c#\\ejercicios-cda\\ejercicios-clase-2\\ejercicio7\\ivehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{296A10BC-860E-47A6-9C20-5D4DA86A6101}|Ejercicio7\\Ejercicio7.csproj|solutionrelative:ejercicio7\\ivehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296A10BC-860E-47A6-9C20-5D4DA86A6101}|Ejercicio7\\Ejercicio7.csproj|c:\\users\\epareja\\c#\\ejercicios-cda\\ejercicios-clase-2\\ejercicio7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{296A10BC-860E-47A6-9C20-5D4DA86A6101}|Ejercicio7\\Ejercicio7.csproj|solutionrelative:ejercicio7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A2318-BDE9-4ADC-BD45-7E19B7541D2E}|Ejercicio8\\Ejercicio8.csproj|c:\\users\\epareja\\c#\\ejercicios-cda\\ejercicios-clase-2\\ejercicio8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A2318-BDE9-4ADC-BD45-7E19B7541D2E}|Ejercicio8\\Ejercicio8.csproj|solutionrelative:ejercicio8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6B667A-4479-4E0D-86FC-F35A9E4E2952}|Ejercicio6\\Ejercicio6.csproj|c:\\users\\epareja\\c#\\ejercicios-cda\\ejercicios-clase-2\\ejercicio6\\ejercicio6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1C6B667A-4479-4E0D-86FC-F35A9E4E2952}|Ejercicio6\\Ejercicio6.csproj|solutionrelative:ejercicio6\\ejercicio6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6B667A-4479-4E0D-86FC-F35A9E4E2952}|Ejercicio6\\Ejercicio6.csproj|c:\\users\\epareja\\c#\\ejercicios-cda\\ejercicios-clase-2\\ejercicio6\\ubicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6B667A-4479-4E0D-86FC-F35A9E4E2952}|Ejercicio6\\Ejercicio6.csproj|solutionrelative:ejercicio6\\ubicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928C766A-69ED-4589-BFBE-5DA0C3B5BC75}|ejercicio4\\ejercicio4.csproj|c:\\users\\epareja\\c#\\ejercicios-cda\\ejercicios-clase-2\\ejercicio4\\superalbumfotos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{928C766A-69ED-4589-BFBE-5DA0C3B5BC75}|ejercicio4\\ejercicio4.csproj|solutionrelative:ejercicio4\\superalbumfotos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543DE5D0-2E43-40F5-B543-C404CCB35327}|ejercicio-3\\ejercicio-3.csproj|c:\\users\\epareja\\c#\\ejercicios-cda\\ejercicios-clase-2\\ejercicio-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543DE5D0-2E43-40F5-B543-C404CCB35327}|ejercicio-3\\ejercicio-3.csproj|solutionrelative:ejercicio-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A601F8-52B3-4D23-B272-2C7974D5DF89}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\epareja\\c#\\ejercicios-cda\\ejercicios-clase-2\\ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A601F8-52B3-4D23-B272-2C7974D5DF89}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A601F8-52B3-4D23-B272-2C7974D5DF89}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\epareja\\c#\\ejercicios-cda\\ejercicios-clase-2\\ejercicio1\\ejercicio1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{90A601F8-52B3-4D23-B272-2C7974D5DF89}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\ejercicio1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010E6A93-03C7-4DD5-8884-A692731252C5}|ejercicio-5\\ejercicio-5.csproj|c:\\users\\epareja\\c#\\ejercicios-cda\\ejercicios-clase-2\\ejercicio-5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010E6A93-03C7-4DD5-8884-A692731252C5}|ejercicio-5\\ejercicio-5.csproj|solutionrelative:ejercicio-5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010E6A93-03C7-4DD5-8884-A692731252C5}|ejercicio-5\\ejercicio-5.csproj|c:\\users\\epareja\\c#\\ejercicios-cda\\ejercicios-clase-2\\ejercicio-5\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010E6A93-03C7-4DD5-8884-A692731252C5}|ejercicio-5\\ejercicio-5.csproj|solutionrelative:ejercicio-5\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010E6A93-03C7-4DD5-8884-A692731252C5}|ejercicio-5\\ejercicio-5.csproj|c:\\users\\epareja\\c#\\ejercicios-cda\\ejercicios-clase-2\\ejercicio-5\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010E6A93-03C7-4DD5-8884-A692731252C5}|ejercicio-5\\ejercicio-5.csproj|solutionrelative:ejercicio-5\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010E6A93-03C7-4DD5-8884-A692731252C5}|ejercicio-5\\ejercicio-5.csproj|c:\\users\\epareja\\c#\\ejercicios-cda\\ejercicios-clase-2\\ejercicio-5\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010E6A93-03C7-4DD5-8884-A692731252C5}|ejercicio-5\\ejercicio-5.csproj|solutionrelative:ejercicio-5\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE60167-FC0C-45C0-A26C-6E72F2A6D6E5}|Ejercicios2\\Ejercicio2.csproj|c:\\users\\epareja\\c#\\ejercicios-cda\\ejercicios-clase-2\\ejercicios2\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE60167-FC0C-45C0-A26C-6E72F2A6D6E5}|Ejercicios2\\Ejercicio2.csproj|solutionrelative:ejercicios2\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543DE5D0-2E43-40F5-B543-C404CCB35327}|ejercicio-3\\ejercicio-3.csproj|c:\\users\\epareja\\c#\\ejercicios-cda\\ejercicios-clase-2\\ejercicio-3\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543DE5D0-2E43-40F5-B543-C404CCB35327}|ejercicio-3\\ejercicio-3.csproj|solutionrelative:ejercicio-3\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A601F8-52B3-4D23-B272-2C7974D5DF89}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\epareja\\c#\\ejercicios-cda\\ejercicios-clase-2\\ejercicio1\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A601F8-52B3-4D23-B272-2C7974D5DF89}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6B667A-4479-4E0D-86FC-F35A9E4E2952}|Ejercicio6\\Ejercicio6.csproj|c:\\users\\epareja\\c#\\ejercicios-cda\\ejercicios-clase-2\\ejercicio6\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6B667A-4479-4E0D-86FC-F35A9E4E2952}|Ejercicio6\\Ejercicio6.csproj|solutionrelative:ejercicio6\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6B667A-4479-4E0D-86FC-F35A9E4E2952}|Ejercicio6\\Ejercicio6.csproj|c:\\users\\epareja\\c#\\ejercicios-cda\\ejercicios-clase-2\\ejercicio6\\forma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6B667A-4479-4E0D-86FC-F35A9E4E2952}|Ejercicio6\\Ejercicio6.csproj|solutionrelative:ejercicio6\\forma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6B667A-4479-4E0D-86FC-F35A9E4E2952}|Ejercicio6\\Ejercicio6.csproj|c:\\users\\epareja\\c#\\ejercicios-cda\\ejercicios-clase-2\\ejercicio6\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6B667A-4479-4E0D-86FC-F35A9E4E2952}|Ejercicio6\\Ejercicio6.csproj|solutionrelative:ejercicio6\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6B667A-4479-4E0D-86FC-F35A9E4E2952}|Ejercicio6\\Ejercicio6.csproj|c:\\users\\epareja\\c#\\ejercicios-cda\\ejercicios-clase-2\\ejercicio6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6B667A-4479-4E0D-86FC-F35A9E4E2952}|Ejercicio6\\Ejercicio6.csproj|solutionrelative:ejercicio6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A2318-BDE9-4ADC-BD45-7E19B7541D2E}|Ejercicio8\\Ejercicio8.csproj|c:\\users\\epareja\\c#\\ejercicios-cda\\ejercicios-clase-2\\ejercicio8\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A2318-BDE9-4ADC-BD45-7E19B7541D2E}|Ejercicio8\\Ejercicio8.csproj|solutionrelative:ejercicio8\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A2318-BDE9-4ADC-BD45-7E19B7541D2E}|Ejercicio8\\Ejercicio8.csproj|c:\\users\\epareja\\c#\\ejercicios-cda\\ejercicios-clase-2\\ejercicio8\\perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A2318-BDE9-4ADC-BD45-7E19B7541D2E}|Ejercicio8\\Ejercicio8.csproj|solutionrelative:ejercicio8\\perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928C766A-69ED-4589-BFBE-5DA0C3B5BC75}|ejercicio4\\ejercicio4.csproj|c:\\users\\epareja\\c#\\ejercicios-cda\\ejercicios-clase-2\\ejercicio4\\albumtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{928C766A-69ED-4589-BFBE-5DA0C3B5BC75}|ejercicio4\\ejercicio4.csproj|solutionrelative:ejercicio4\\albumtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928C766A-69ED-4589-BFBE-5DA0C3B5BC75}|ejercicio4\\ejercicio4.csproj|c:\\users\\epareja\\c#\\ejercicios-cda\\ejercicios-clase-2\\ejercicio4\\ejercicio4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{928C766A-69ED-4589-BFBE-5DA0C3B5BC75}|ejercicio4\\ejercicio4.csproj|solutionrelative:ejercicio4\\ejercicio4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928C766A-69ED-4589-BFBE-5DA0C3B5BC75}|ejercicio4\\ejercicio4.csproj|c:\\users\\epareja\\c#\\ejercicios-cda\\ejercicios-clase-2\\ejercicio4\\albumfotos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{928C766A-69ED-4589-BFBE-5DA0C3B5BC75}|ejercicio4\\ejercicio4.csproj|solutionrelative:ejercicio4\\albumfotos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543DE5D0-2E43-40F5-B543-C404CCB35327}|ejercicio-3\\ejercicio-3.csproj|c:\\users\\epareja\\c#\\ejercicios-cda\\ejercicios-clase-2\\ejercicio-3\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543DE5D0-2E43-40F5-B543-C404CCB35327}|ejercicio-3\\ejercicio-3.csproj|solutionrelative:ejercicio-3\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543DE5D0-2E43-40F5-B543-C404CCB35327}|ejercicio-3\\ejercicio-3.csproj|c:\\users\\epareja\\c#\\ejercicios-cda\\ejercicios-clase-2\\ejercicio-3\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543DE5D0-2E43-40F5-B543-C404CCB35327}|ejercicio-3\\ejercicio-3.csproj|solutionrelative:ejercicio-3\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543DE5D0-2E43-40F5-B543-C404CCB35327}|ejercicio-3\\ejercicio-3.csproj|c:\\users\\epareja\\c#\\ejercicios-cda\\ejercicios-clase-2\\ejercicio-3\\ejercicio-3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{543DE5D0-2E43-40F5-B543-C404CCB35327}|ejercicio-3\\ejercicio-3.csproj|solutionrelative:ejercicio-3\\ejercicio-3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE60167-FC0C-45C0-A26C-6E72F2A6D6E5}|Ejercicios2\\Ejercicio2.csproj|c:\\users\\epareja\\c#\\ejercicios-cda\\ejercicios-clase-2\\ejercicios2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE60167-FC0C-45C0-A26C-6E72F2A6D6E5}|Ejercicios2\\Ejercicio2.csproj|solutionrelative:ejercicios2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\Ejercicios2\\Persona.cs",
+              "RelativeDocumentMoniker": "Ejercicios2\\Persona.cs",
+              "ToolTip": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\Ejercicios2\\Persona.cs",
+              "RelativeToolTip": "Ejercicios2\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T15:36:11.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\ejercicio-3\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio-3\\Program.cs",
+              "ToolTip": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\ejercicio-3\\Program.cs",
+              "RelativeToolTip": "ejercicio-3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T18:55:25.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\Ejercicio1\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\Program.cs",
+              "ToolTip": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\Ejercicio1\\Program.cs",
+              "RelativeToolTip": "Ejercicio1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T15:19:41.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SuperAlbumFotos.cs",
+              "DocumentMoniker": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\ejercicio4\\SuperAlbumFotos.cs",
+              "RelativeDocumentMoniker": "ejercicio4\\SuperAlbumFotos.cs",
+              "ToolTip": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\ejercicio4\\SuperAlbumFotos.cs",
+              "RelativeToolTip": "ejercicio4\\SuperAlbumFotos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T19:40:12.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ubicacion.cs",
+              "DocumentMoniker": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\Ejercicio6\\Ubicacion.cs",
+              "RelativeDocumentMoniker": "Ejercicio6\\Ubicacion.cs",
+              "ToolTip": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\Ejercicio6\\Ubicacion.cs",
+              "RelativeToolTip": "Ejercicio6\\Ubicacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T15:02:11.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\Ejercicio7\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio7\\Program.cs",
+              "ToolTip": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\Ejercicio7\\Program.cs",
+              "RelativeToolTip": "Ejercicio7\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T19:57:41.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Coche.cs",
+              "DocumentMoniker": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\Ejercicio7\\Coche.cs",
+              "RelativeDocumentMoniker": "Ejercicio7\\Coche.cs",
+              "ToolTip": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\Ejercicio7\\Coche.cs",
+              "RelativeToolTip": "Ejercicio7\\Coche.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T19:59:42.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\Ejercicio8\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio8\\Program.cs",
+              "ToolTip": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\Ejercicio8\\Program.cs",
+              "RelativeToolTip": "Ejercicio8\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T20:35:39.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IVehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\Ejercicio7\\IVehiculo.cs",
+              "RelativeDocumentMoniker": "Ejercicio7\\IVehiculo.cs",
+              "ToolTip": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\Ejercicio7\\IVehiculo.cs",
+              "RelativeToolTip": "Ejercicio7\\IVehiculo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T19:58:12.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\Ejercicios2\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicios2\\Program.cs",
+              "ToolTip": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\Ejercicios2\\Program.cs",
+              "RelativeToolTip": "Ejercicios2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T15:35:39.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ejercicio6.csproj",
+              "DocumentMoniker": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\Ejercicio6\\Ejercicio6.csproj",
+              "RelativeDocumentMoniker": "Ejercicio6\\Ejercicio6.csproj",
+              "ToolTip": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\Ejercicio6\\Ejercicio6.csproj",
+              "RelativeToolTip": "Ejercicio6\\Ejercicio6.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-24T17:18:55.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\ejercicio-5\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio-5\\Program.cs",
+              "ToolTip": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\ejercicio-5\\Program.cs",
+              "RelativeToolTip": "ejercicio-5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T16:57:41.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\ejercicio-5\\Persona.cs",
+              "RelativeDocumentMoniker": "ejercicio-5\\Persona.cs",
+              "ToolTip": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\ejercicio-5\\Persona.cs",
+              "RelativeToolTip": "ejercicio-5\\Persona.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T16:58:23.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Profesor.cs",
+              "DocumentMoniker": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\ejercicio-5\\Profesor.cs",
+              "RelativeDocumentMoniker": "ejercicio-5\\Profesor.cs",
+              "ToolTip": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\ejercicio-5\\Profesor.cs",
+              "RelativeToolTip": "ejercicio-5\\Profesor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T16:59:38.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\ejercicio-5\\Estudiante.cs",
+              "RelativeDocumentMoniker": "ejercicio-5\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\ejercicio-5\\Estudiante.cs",
+              "RelativeToolTip": "ejercicio-5\\Estudiante.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T17:00:34.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Ejercicio1.csproj",
+              "DocumentMoniker": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\Ejercicio1\\Ejercicio1.csproj",
+              "RelativeDocumentMoniker": "Ejercicio1\\Ejercicio1.csproj",
+              "ToolTip": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\Ejercicio1\\Ejercicio1.csproj",
+              "RelativeToolTip": "Ejercicio1\\Ejercicio1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-24T17:16:04.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\ejercicio-3\\Estudiante.cs",
+              "RelativeDocumentMoniker": "ejercicio-3\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\ejercicio-3\\Estudiante.cs",
+              "RelativeToolTip": "ejercicio-3\\Estudiante.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T18:56:45.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\Ejercicio1\\Persona.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\Persona.cs",
+              "ToolTip": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\Ejercicio1\\Persona.cs",
+              "RelativeToolTip": "Ejercicio1\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T15:19:59.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Forma.cs",
+              "DocumentMoniker": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\Ejercicio6\\Forma.cs",
+              "RelativeDocumentMoniker": "Ejercicio6\\Forma.cs",
+              "ToolTip": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\Ejercicio6\\Forma.cs",
+              "RelativeToolTip": "Ejercicio6\\Forma.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T21:26:00.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Circulo.cs",
+              "DocumentMoniker": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\Ejercicio6\\Circulo.cs",
+              "RelativeDocumentMoniker": "Ejercicio6\\Circulo.cs",
+              "ToolTip": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\Ejercicio6\\Circulo.cs",
+              "RelativeToolTip": "Ejercicio6\\Circulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T21:25:41.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Rectangulo.cs",
+              "DocumentMoniker": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\Ejercicio6\\Rectangulo.cs",
+              "RelativeDocumentMoniker": "Ejercicio6\\Rectangulo.cs",
+              "ToolTip": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\Ejercicio6\\Rectangulo.cs",
+              "RelativeToolTip": "Ejercicio6\\Rectangulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T20:51:00.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\Ejercicio6\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio6\\Program.cs",
+              "ToolTip": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\Ejercicio6\\Program.cs",
+              "RelativeToolTip": "Ejercicio6\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T20:50:45.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Perro.cs",
+              "DocumentMoniker": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\Ejercicio8\\Perro.cs",
+              "RelativeDocumentMoniker": "Ejercicio8\\Perro.cs",
+              "ToolTip": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\Ejercicio8\\Perro.cs",
+              "RelativeToolTip": "Ejercicio8\\Perro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T20:39:22.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\Ejercicio8\\Animal.cs",
+              "RelativeDocumentMoniker": "Ejercicio8\\Animal.cs",
+              "ToolTip": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\Ejercicio8\\Animal.cs",
+              "RelativeToolTip": "Ejercicio8\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T20:35:54.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ejercicio4.csproj",
+              "DocumentMoniker": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\ejercicio4\\ejercicio4.csproj",
+              "RelativeDocumentMoniker": "ejercicio4\\ejercicio4.csproj",
+              "ToolTip": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\ejercicio4\\ejercicio4.csproj",
+              "RelativeToolTip": "ejercicio4\\ejercicio4.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-22T19:53:56.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AlbumFotos.cs",
+              "DocumentMoniker": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\ejercicio4\\AlbumFotos.cs",
+              "RelativeDocumentMoniker": "ejercicio4\\AlbumFotos.cs",
+              "ToolTip": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\ejercicio4\\AlbumFotos.cs",
+              "RelativeToolTip": "ejercicio4\\AlbumFotos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T19:35:18.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AlbumTest.cs",
+              "DocumentMoniker": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\ejercicio4\\AlbumTest.cs",
+              "RelativeDocumentMoniker": "ejercicio4\\AlbumTest.cs",
+              "ToolTip": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\ejercicio4\\AlbumTest.cs",
+              "RelativeToolTip": "ejercicio4\\AlbumTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T19:34:40.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ejercicio-3.csproj",
+              "DocumentMoniker": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\ejercicio-3\\ejercicio-3.csproj",
+              "RelativeDocumentMoniker": "ejercicio-3\\ejercicio-3.csproj",
+              "ToolTip": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\ejercicio-3\\ejercicio-3.csproj",
+              "RelativeToolTip": "ejercicio-3\\ejercicio-3.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-19T19:20:48.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Profesor.cs",
+              "DocumentMoniker": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\ejercicio-3\\Profesor.cs",
+              "RelativeDocumentMoniker": "ejercicio-3\\Profesor.cs",
+              "ToolTip": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\ejercicio-3\\Profesor.cs",
+              "RelativeToolTip": "ejercicio-3\\Profesor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T18:56:22.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\ejercicio-3\\Persona.cs",
+              "RelativeDocumentMoniker": "ejercicio-3\\Persona.cs",
+              "ToolTip": "C:\\Users\\epareja\\C#\\ejercicios-CDA\\ejercicios-clase-2\\ejercicio-3\\Persona.cs",
+              "RelativeToolTip": "ejercicio-3\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T18:56:03.319Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
